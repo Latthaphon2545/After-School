@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - ChojuKigan
+  - KenkoKigan
+  - KinunJosho
+  - moster
+  - SanshuNoJingi
+  - "Kin\u2019unJosho"
+  - Locker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Ground
+  - item
+  - monster
+  - stairs
+  - locker
+  - door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2576149953
+    locked: 0
+  - name: stairs
+    uniqueID: 2476275693
+    locked: 0
+  - name: locker
+    uniqueID: 2846299717
+    locked: 0
+  - name: door
+    uniqueID: 4059888475
+    locked: 0
+  - name: item
+    uniqueID: 1701789891
+    locked: 0
+  - name: monster
+    uniqueID: 1370570267
+    locked: 0
+  - name: player
+    uniqueID: 416383001
+    locked: 0
